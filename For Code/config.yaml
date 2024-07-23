@@ -1,0 +1,7 @@
+path: /home/campus30/dnarsipu/Downloads/For Code/Regular
+train: images/train/
+val: images/val/
+
+#classes
+nc : 3 
+names: ['A', 'B', 'C']
